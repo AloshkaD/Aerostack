@@ -313,14 +313,6 @@
 	path = stack/HMI/droneSoundROSModule
 	url = https://bitbucket.org/joselusl/dronesoundrosmodule.git
 	branch = master
-[submodule "stack/droneDrivers/driversPlatforms/driverPixhawk/driverPixhawkROSModule"]
-	path = stack/droneDrivers/driversPlatforms/driverPixhawk/driverPixhawkROSModule
-	url = https://bitbucket.org/hridaybavle/driverpixhawkrosmodule.git
-	branch = master
-[submodule "stack/droneDrivers/driversPlatforms/driverPixhawk/mavros"]
-	path = stack/droneDrivers/driversPlatforms/driverPixhawk/mavros
-	url = https://github.com/mavlink/mavros.git
-	branch = master
 [submodule "stack/droneDrivers/driversSensors/driverLidarlite/driverLidarliteInterfaceROSModule"]
 	path = stack/droneDrivers/driversSensors/driverLidarlite/driverLidarliteInterfaceROSModule
 	url = https://bitbucket.org/hridaybavle/driverlidarliteinterfacerosmodule
