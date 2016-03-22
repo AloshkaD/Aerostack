@@ -66,7 +66,7 @@ The installation follows the same steps needed usually to compile a self-contain
 
 #### Download the installation script file
 
-        git clone https://bitbucket.org/joselusl/aerostack_installer ~/temp
+        git clone https://github.com/Vision4UAV/Aerostack_installer ~/temp
     
 #### Run it in a non-ARM Architecture Computer with Linux Ubuntu 14.04 and ROS Jade
        
