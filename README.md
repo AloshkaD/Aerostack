@@ -1,7 +1,7 @@
 
 ## AeroStack
 
-Please visit our Wiki for a complete [Project Documentation](https://github.com/Vision4UAV/Aerostack/wiki).
+Please visit the [Aerostack Wiki](https://github.com/Vision4UAV/Aerostack/wiki) for a complete project documentation.
 
 
 
