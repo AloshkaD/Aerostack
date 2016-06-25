@@ -153,7 +153,8 @@ Keep in mind, to change /home/myaccount to your real home path (cd ~ && pwd).
 
 # Download human_machine_interface
 cd ~/workspace/ros/quadrotor_stack_catkin/src/quadrotor_stack/stack/HMI
-git clone https://bitbucket.org/yolanda_de_la_hoz_simon/hmi_cvg_stack.git 
+git clone https://github.com/yolanda93/human_machine_interface.git 
+# rename the folder from human_machine_interface to hmi_cvg_stack
 cd hmi_cvg_stack
 ./installation/set_environmental_variables.sh
 cd ~/<my_workspace>
