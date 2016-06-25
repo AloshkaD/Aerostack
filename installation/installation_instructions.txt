@@ -157,5 +157,5 @@ git clone https://github.com/yolanda93/human_machine_interface.git
 # rename the folder from human_machine_interface to hmi_cvg_stack
 cd hmi_cvg_stack
 ./installation/set_environmental_variables.sh
-cd ~/<my_workspace>
+cd ~/workspace/ros/quadrotor_stack_catkin
 catkin_make
